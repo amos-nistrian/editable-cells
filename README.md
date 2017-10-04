@@ -8,3 +8,5 @@ To escape reorder-mode/delete-mode tap on an activated cell.<br />
 <iframe src="https://giphy.com/embed/l1J9HFJIlsT6mk10Y" width="242" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l1J9HFJIlsT6mk10Y">via GIPHY</a></p>
 
 <a href="https://giphy.com/gifs/l1J9HFJIlsT6mk10Y">via GIPHY</a>
+
+![Edit Cell Demonstration](https://media.giphy.com/media/l1J9HFJIlsT6mk10Y/giphy.gif)
